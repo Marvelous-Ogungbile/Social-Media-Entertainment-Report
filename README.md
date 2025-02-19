@@ -1,6 +1,3 @@
-# Social-Media-Entertainment-Report
-This report explores how social media entertainment impacts user behavior, digital usage patterns, time management, and well-being. It evaluates key metrics such as screen time, social media fatigue, preferred platforms, and the relationship between various digital habits.
-
 # Social Media Entertainment Report
 
 
